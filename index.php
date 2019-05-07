@@ -65,7 +65,7 @@
           column
         </div>
         <div class="w-100">
-          something
+          something / w-100
         </div>
         <div class="col" style="background-color: #25cbf0;">
           column
@@ -107,6 +107,100 @@
         row
       </div>
       container
+    </div>
+    <br><br>
+    <div class="container">
+      container
+      <div class="col-md-auto">
+        variable width content
+      </div>
+      container
+    </div>
+    <br><br>
+    <div class="" style="background-color: #000000;">
+    <nav>
+      <h1>Main menu</h1>
+      <ul>
+        <li>Home</li>
+        <li>About us</li>
+        <li>Contact us</li>
+      </ul>
+    </nav>
+    <article>
+      <h1>About Us</h1>
+      <p>Siam</p>
+      <p>เพื่อนๆ</p>
+    </article>
+    </div>
+    <br><br>
+    <div class="" style="background-color: #000000;">
+      <h1>About Us</h1>
+      <p>Siam</p>
+      <section>
+        <h2>วิสัยทัศน์</h2>
+        <p>Siam</p>
+      </section>
+      <section>
+        <h2>ติดต่อเรา</h2>
+        <p>Siam</p>
+      </section>
+    </div>
+    <br><br>
+    <div class="" style="background-color: #000000;">
+      <article>
+        <h1>About Us</h1>
+        <p>Siam</p>
+        <section>
+          <h2>Comments</h2>
+          <article>
+            <p>ชอบอ่าน</p>
+          </article>
+          <article>
+            <p>ขอเป็น</p>
+          </article>
+        </section>
+      </article>
+    </div>
+    <br><br>
+    <div class="" style="background-color: #000000;">
+      <section>
+        <h1>Articles</h1>
+        <article>
+          <h2>วิธีเลือกใช้</h2>
+          <p>ก่อนอื่นต้อง</p>
+        </article>
+        <article>
+          <h2>3 หัวใจสำคัญ</h2>
+          <p>หากเราจะเริ่ม</p>
+        </article>
+      </section>
+    </div>
+    <br><br>
+    <div class="" style="background-color: #000000;">
+      <article>
+        <h1>Responsive</h1>
+        <p>คาดว่าหลายๆ</p>
+        <section>
+          <h2>ความหมาย</h2>
+          <p>ในปัจจุบัน</p>
+        </section>
+        <section>
+          <h2>หลักการ</h2>
+          <p>การจะทำ Responsive</p>
+        </section>
+        <aside>
+          <h2>Media</h2>
+          <p>Media</p>
+        </aside>
+      </article>
+      <aside>
+        <h2>แชร์หน้านี้</h2>
+        <ul>
+          <li>facebook</li>
+          <li>twitter</li>
+          <li>Google Plus</li>
+        </ul>
+      </aside>
     </div>
   </body>
 </html>
